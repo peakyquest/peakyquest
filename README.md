@@ -71,12 +71,6 @@ These experiences sharpened my skills in **motion control**, **robot state estim
 
 ---
 
-## 📸 Featured Projects
-
-Coming soon... *(Let me know if you want this section customized with project links and images)*
-
----
-
 ## 📬 Let's Connect!
 
 If you're working on something exciting in **robotics**, **AI**, or **autonomous systems**, I'd love to hear from you!
