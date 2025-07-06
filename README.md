@@ -27,6 +27,14 @@ I’ve worked extensively with **robotic manipulators**, focusing on simulation,
 
 These projects allowed me to explore **motion planning**, **perception integration**, and **control loops**—laying the foundation for precise and intelligent robot manipulation.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4136d23-a19c-4e40-a4a1-52bdef39f5df" width="45%" />
+  <img src="https://github.com/user-attachments/assets/951355e4-3f05-44b5-a267-bd92519c3c83" width="45%" />
+</p>
+
+
+
+
 ---
 
 ## 🚁 Drones & Aerial Robotics
@@ -38,6 +46,15 @@ I’ve been actively involved in developing autonomous aerial systems using both
   - Developed **vision-based SLAM** and **autonomous path planning** pipelines for indoor and outdoor navigation.
   - Extensively used **SITL (Software-In-The-Loop)** to simulate and test flight algorithms without real hardware.
   - Worked with **GPS, IMU, and optical sensors** for robust state estimation and control.
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1172e0d-3d93-49d9-9d13-cdee08604322" width="45%" />
+  <img src="https://github.com/user-attachments/assets/58e96494-6b4c-4f43-85ed-3c49fc935772" width="45%" />
+</p>
+
+
+
+
 
 - 📷 **Tello Drone with ROS 2**
   - Interfaced **Ryze Tello** with ROS 2 for educational and prototyping purposes.
