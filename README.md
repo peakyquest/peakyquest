@@ -118,6 +118,24 @@ These experiences sharpened my skills in **motion control**, **robot state estim
 
 ---
 
+## 🏆 Achievements & Open Source Contributions
+
+- **Crazyflie Simulation — URDF Model**  
+  Contributed a complete URDF model for the Crazyflie drone, enabling realistic simulation and integration with ROS2 environments.  
+  [View Pull Request #74](https://github.com/bitcraze/crazyflie-simulation/pull/74)
+
+- **MAVROS Examples — ROS2 Tutorials**  
+  Developed sample ROS2 nodes demonstrating services, topics, and MAVROS integration, helping developers get started with ROS2-based flight control.  
+  [View Pull Request #2077](https://github.com/mavlink/mavros/pull/2077)
+
+- **RTAB-Map for Quadcopter**  
+  Implemented RTAB-Map integration for a quadcopter, enabling real-time 3D mapping and SLAM functionality in ROS2.  
+  [View Pull Request #1](https://github.com/noshluk2/ros_gz_crazyflie/pull/1)
+
+---
+
+
+
 ## 📬 Let's Connect!
 
 If you're working on something exciting in **robotics**, **AI**, or **autonomous systems**, I'd love to hear from you!
